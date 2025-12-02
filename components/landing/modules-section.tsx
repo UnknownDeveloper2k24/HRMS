@@ -31,6 +31,7 @@ const modules = [
       { icon: Navigation, name: "Geo-Fencing", desc: "Define allowed zones with VPN detection" },
     ],
     color: "bg-blue-500",
+    image: "/attendance-module-interface.jpg",
   },
   {
     title: "L&D Platform",
@@ -42,6 +43,7 @@ const modules = [
       { icon: Award, name: "Digital Certificates", desc: "QR-verified blockchain credentials" },
     ],
     color: "bg-primary",
+    image: "/ld-platform-interface.jpg",
   },
   {
     title: "AI Interview",
@@ -53,6 +55,7 @@ const modules = [
       { icon: FileText, name: "Smart Reports", desc: "Strengths, risks & recommendations" },
     ],
     color: "bg-purple-500",
+    image: "/ai-interview-interface.jpg",
   },
   {
     title: "Payroll Module",
@@ -64,6 +67,7 @@ const modules = [
       { icon: CreditCard, name: "Bank Integration", desc: "NEFT/IMPS/RTGS disbursement" },
     ],
     color: "bg-orange-500",
+    image: "/payroll-module-interface.jpg",
   },
 ]
 
@@ -114,7 +118,7 @@ export function ModulesSection() {
               <div className="lg:w-1/2">
                 <div className="bg-muted rounded-xl overflow-hidden">
                   <img
-                    src={`/.jpg?height=400&width=600&query=${module.title.toLowerCase().replace(" ", "-")}-interface`}
+                    src={module.image}
                     alt={module.title}
                     className="w-full"
                   />

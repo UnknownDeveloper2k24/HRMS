@@ -49,7 +49,7 @@ export function TestimonialsSection() {
               <p className="text-foreground mb-6 text-lg">&ldquo;{testimonial.quote}&rdquo;</p>
               <div className="flex items-center gap-4">
                 <img
-                  src={testimonial.avatar || "/placeholder.svg"}
+                  src={testimonial.avatar || "/images/Testimonial.jpg"}
                   alt={testimonial.author}
                   className="w-12 h-12 rounded-full object-cover"
                 />

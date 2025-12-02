@@ -1,0 +1,18 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/dashboard/attendance/page": "/dashboard/attendance",
+  "/dashboard/departments/page": "/dashboard/departments",
+  "/dashboard/documents/page": "/dashboard/documents",
+  "/dashboard/employees/page": "/dashboard/employees",
+  "/dashboard/help/page": "/dashboard/help",
+  "/dashboard/interviews/page": "/dashboard/interviews",
+  "/dashboard/learning/page": "/dashboard/learning",
+  "/dashboard/leaves/page": "/dashboard/leaves",
+  "/dashboard/page": "/dashboard",
+  "/dashboard/payroll/page": "/dashboard/payroll",
+  "/dashboard/reports/page": "/dashboard/reports",
+  "/dashboard/settings/page": "/dashboard/settings",
+  "/login/page": "/login",
+  "/page": "/"
+}
