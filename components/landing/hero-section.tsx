@@ -63,7 +63,7 @@ export function HeroSection() {
               </div>
               <div className="flex-1 text-center text-sm text-muted-foreground">dashboard.averpeople.com</div>
             </div>
-            <img src="/modern-hr-dashboard-with-charts-and-employee-data.jpg" alt="Aver People Dashboard Preview" className="w-full" />
+            <img src="/modern-hr-dashboard-preview.jpg" alt="Aver People Dashboard Preview" className="w-full" />
           </div>
         </div>
       </div>

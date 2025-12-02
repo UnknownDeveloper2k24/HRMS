@@ -9,7 +9,7 @@ const testimonials = [
       "Aver People transformed how we manage our 500+ workforce. The AI interview module alone saved us 200+ hours monthly.",
     author: "Priya Sharma",
     role: "CHRO, TechCorp India",
-    avatar: "/indian-business-woman.png",
+    avatar: "/indian-business-woman-chro.jpg",
     rating: 5,
   },
   {
@@ -24,7 +24,7 @@ const testimonials = [
     quote: "L&D gamification increased our course completion rates by 300%. Employees actually enjoy training now.",
     author: "Elena Rodriguez",
     role: "L&D Director, Innovate Inc",
-    avatar: "/latina-business-woman.png",
+    avatar: "/latina-business-woman-ld-director.jpg",
     rating: 5,
   },
 ]
